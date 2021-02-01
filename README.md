@@ -1,4 +1,4 @@
-# Lab3---IMR
+# Blender moving hand
 
 The moving hand is created in Blender starting from a cube, by remodeling and adding new forms. The structure has a armature 
 which helps during the 'grab' movement and simmulates the bones of a real hand . The model is exported as fbx, 
